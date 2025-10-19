@@ -25,4 +25,4 @@
 # .vscode_global/sync_logs/*.log
 **.log
 
-!.README.md
+!README.md
